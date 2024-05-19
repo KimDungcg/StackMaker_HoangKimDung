@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\assets\\_game\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|d:\\unity_hb\\projects\\stackmaker_dungdz\\assets\\_game\\script\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\assets\\_game\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\assets\\_game\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\assets\\_game\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF378122-4F7F-39C8-8285-D7ED5856ABAC}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\LevelManager.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\LevelManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:18:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\GameManager.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:26:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\UIManager.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\UIManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:24:03.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Player.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Player.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwC0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:55:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\Stack.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Script\\Stack.cs",
+              "ToolTip": "D:\\Unity_HB\\Projects\\StackMaker_Dungdz\\Assets\\_Game\\Script\\Stack.cs",
+              "RelativeToolTip": "Assets\\_Game\\Script\\Stack.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:20:38.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
